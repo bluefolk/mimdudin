@@ -79,12 +79,20 @@ export const SITE_CONTENT: SiteContent = {
       linkSource: "https://play.google.com/store/apps/details?id=etransact.com.au",
       image: "/ss1.png",
     },
+    
     {
       name: "SWCorp ISPEMOS",
       summary: "Untuk memudahkan kerja-kerja pengesahan dan semakan oleh anggota pegawai SWCORP",
       linkPreview: "/",
       linkSource: "https://play.google.com/store/apps/details?id=com.swcorp.ispemos&hl=id",
       image: "/ss2.png",
+    },
+     {
+      name: "Hisfarma Back End",
+      summary: "Hisfarma SuperApp memungkinkan kamu untuk menjelajahi seluruh agenda khususnya jika kamu seorang Apoteker yang ingin menambah ilmu pengetahuan dengan menghadiri berbagai event menarik yang hanya tersedia disini",
+      linkPreview: "/",
+      linkSource: "https://play.google.com/store/apps/details?id=hisfarma.superapp.com&hl=id",
+      image: "/ss4.png",
     },
     {
       name: "Hisfarma SuperApp",
@@ -96,9 +104,11 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-     Hi, Im Fullstack Developer specialist. 
+     Hi, Im Fullstack Developer specialist.
+
      Focussing develop the back end system using Laravel (PHP Framework) and Mobile Application development using Flutter techstack for Android & iOS around 7+ years and Experienced in Linux Environment.
-     I have more experienced in designing and implement a project plan to completion.
+     
+     I'm Bachelore Degree in Information System. Also more experienced in designing and implement a project plan to completion.
      I'm working with HTML, CSS, PHP, MySQL, Dart, Flutter, Android Studio, XCode and Rest API Integration.
     `,
     image: "/iman.jpeg",
