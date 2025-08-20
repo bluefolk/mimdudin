@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Muhammad Imanudin — Mobile & Web Developer",
   author: "Muhammad Imanudin",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Developer based in West Kalimantan, Indonesia. I specialize in Software Development for around 7+ years experienced. Make a plan for project creation until completion, Develop a Web and Mobile application development and maintenance.",
   lang: "en",
   siteLogo: "/iman.jpeg",
   navLinks: [
@@ -15,7 +15,7 @@ export const SITE_CONFIG: SiteConfig = {
   socialLinks: [
     // { text: "Twitter", href: "https://github.com/immois/astro-zen" },
     { text: "JobStreet", href: "https://id.jobstreet.com/profile/muhammad-imanudin-phZCmsb8kT" },
-    { text: "Github", href: "https://github.com/ahzanfariz" },
+    { text: "GitLab", href: "https://gitlab.com/mimdudin" },
     // { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     // { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
