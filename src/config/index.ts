@@ -13,10 +13,10 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    // { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "JobStreet", href: "https://id.jobstreet.com/profile/muhammad-imanudin-phZCmsb8kT" },
+    { text: "Contact", href: "https://wa.me/+6285161755854" },
+    { text: "Jobstreet", href: "https://id.jobstreet.com/profile/muhammad-imanudin-phZCmsb8kT" },
     { text: "GitLab", href: "https://gitlab.com/mimdudin" },
-    // { text: "Youtube", href: "https://github.com/immois/astro-zen" },
+    { text: "Curriculum Vitae", href: "https://drive.google.com/file/d/1tWcSCZI1_durf8DnE2iNCNnWOrLy9nYS/view?usp=sharing" },
     // { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/zen-og.png",
